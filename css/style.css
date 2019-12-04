@@ -123,6 +123,9 @@ main {
 .image {
 	margin-bottom: 40px;
 }
+img {
+	max-width: 100%;
+}
 /******************************** MAIN-BOTTOM ********************************/
 
 .box-people {
